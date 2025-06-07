@@ -1,0 +1,31 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+:root{
+    --primary-color: #F8FAFC;
+    --second-color: #D9D9D9;
+    --grey-black: #4d5562;
+    --black: #000;
+}
+
+/*
+Poppins - Heading
+600 - Semibold
+36px | 2.25rem
+https://fonts.google.com/specimen/Poppins
+Poppins - Small Heading
+600 - Semibold
+20px | 1.25rem
+https://fonts.google.com/specimen/Poppins
+Poppins - Small text
+500 - Medium
+14px | 0.875rem
+https://fonts.google.com/specimen/Poppins 
+ */
+
+ 
